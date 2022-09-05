@@ -3,8 +3,7 @@
 #コマンド一覧
 
 #プロジェクト作成
-flask-auto create プロジェクト名
-
+flask-auto create プロジェクト名\n
 #flask-auto create Sample
 
 #htmlファイル作成
